@@ -6,7 +6,7 @@ The project has implemented a toy recommend system, the system can perform onlin
 
 The detail is shown in detail.pdf.
 
-FYI, the CF recommendation there is using trained model of BiasSVD written in there "Link", and in this repo I also implement other classic algorithoms like deepFM,DCN,Wide&Depp ,etc.Execpt xDeepFM, these algs are all implemented by numpy.
+FYI, the CF recommendation there is using trained model of BiasSVD written in there https://github.com/RealWxs/Recommendation-Algorithms, and in this repo I also implement other classic algorithoms like deepFM,DCN,Wide&Depp ,etc.Execpt xDeepFM, these algs are all implemented by numpy.
 
 
 
